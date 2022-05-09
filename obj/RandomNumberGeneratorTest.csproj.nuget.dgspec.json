@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\RandomNumberGeneratorTest\\RandomNumberGeneratorTest\\RandomNumberGeneratorTest.csproj": {}
+    "D:\\source\\git\\study\\RandomNumberGeneratorTest\\RandomNumberGeneratorTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\RandomNumberGeneratorTest\\RandomNumberGeneratorTest\\RandomNumberGeneratorTest.csproj": {
+    "D:\\source\\git\\study\\RandomNumberGeneratorTest\\RandomNumberGeneratorTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\RandomNumberGeneratorTest\\RandomNumberGeneratorTest\\RandomNumberGeneratorTest.csproj",
+        "projectUniqueName": "D:\\source\\git\\study\\RandomNumberGeneratorTest\\RandomNumberGeneratorTest.csproj",
         "projectName": "RandomNumberGeneratorTest",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\RandomNumberGeneratorTest\\RandomNumberGeneratorTest\\RandomNumberGeneratorTest.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\RandomNumberGeneratorTest\\RandomNumberGeneratorTest\\obj\\",
+        "projectPath": "D:\\source\\git\\study\\RandomNumberGeneratorTest\\RandomNumberGeneratorTest.csproj",
+        "packagesPath": "C:\\Users\\56312\\.nuget\\packages\\",
+        "outputPath": "D:\\source\\git\\study\\RandomNumberGeneratorTest\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\56312\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -23,6 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\56312\\Desktop\\dllRes\\package": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

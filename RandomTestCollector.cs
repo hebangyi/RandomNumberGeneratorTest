@@ -39,15 +39,15 @@ namespace RandomNumberGeneratorTest
         /// <summary>
         /// 性能测试 统计字符窜生成时间
         /// </summary>
-        public static void RandStrGenTimeTest(int randomSize = 100 * 10000)
+        public static void RandStrGenTimeTest(int randomSize = 1000 * 10000)
         {
-            long beginTime = DateTime.UtcNow.Millisecond;
+            long beginTime = new DateTimeOffset(DateTime.UtcNow).ToUnixTimeMilliseconds();
             for (int i = 0; i < randomSize; i++)
             {
                 RandomGenerator.RandomStr(10);
             }
-            long endTime = DateTime.UtcNow.Millisecond;
-            Console.WriteLine($"random str count : {randomSize} cost Millisecond: {endTime - beginTime }");
+            long endTime = new DateTimeOffset(DateTime.UtcNow).ToUnixTimeMilliseconds();
+            Console.WriteLine($"random str count : {randomSize} cost Millisecond:, {endTime - beginTime }");
         }
         
     }
