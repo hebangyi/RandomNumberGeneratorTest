@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\RandomNumberGeneratorTest\RandomNumberGeneratorTest\bin\Debug\net5.0\RandomNumberGeneratorTest.exe
+C:\Users\Administrator\Desktop\RandomNumberGeneratorTest\RandomNumberGeneratorTest\bin\Debug\net5.0\RandomNumberGeneratorTest.deps.json
+C:\Users\Administrator\Desktop\RandomNumberGeneratorTest\RandomNumberGeneratorTest\bin\Debug\net5.0\RandomNumberGeneratorTest.runtimeconfig.json
+C:\Users\Administrator\Desktop\RandomNumberGeneratorTest\RandomNumberGeneratorTest\bin\Debug\net5.0\RandomNumberGeneratorTest.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\RandomNumberGeneratorTest\RandomNumberGeneratorTest\bin\Debug\net5.0\RandomNumberGeneratorTest.dll
+C:\Users\Administrator\Desktop\RandomNumberGeneratorTest\RandomNumberGeneratorTest\bin\Debug\net5.0\ref\RandomNumberGeneratorTest.dll
+C:\Users\Administrator\Desktop\RandomNumberGeneratorTest\RandomNumberGeneratorTest\bin\Debug\net5.0\RandomNumberGeneratorTest.pdb
+C:\Users\Administrator\Desktop\RandomNumberGeneratorTest\RandomNumberGeneratorTest\obj\Debug\net5.0\RandomNumberGeneratorTest.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\RandomNumberGeneratorTest\RandomNumberGeneratorTest\obj\Debug\net5.0\RandomNumberGeneratorTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\RandomNumberGeneratorTest\RandomNumberGeneratorTest\obj\Debug\net5.0\RandomNumberGeneratorTest.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\RandomNumberGeneratorTest\RandomNumberGeneratorTest\obj\Debug\net5.0\RandomNumberGeneratorTest.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\RandomNumberGeneratorTest\RandomNumberGeneratorTest\obj\Debug\net5.0\RandomNumberGeneratorTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\RandomNumberGeneratorTest\RandomNumberGeneratorTest\obj\Debug\net5.0\RandomNumberGeneratorTest.dll
+C:\Users\Administrator\Desktop\RandomNumberGeneratorTest\RandomNumberGeneratorTest\obj\Debug\net5.0\ref\RandomNumberGeneratorTest.dll
+C:\Users\Administrator\Desktop\RandomNumberGeneratorTest\RandomNumberGeneratorTest\obj\Debug\net5.0\RandomNumberGeneratorTest.pdb
+C:\Users\Administrator\Desktop\RandomNumberGeneratorTest\RandomNumberGeneratorTest\obj\Debug\net5.0\RandomNumberGeneratorTest.genruntimeconfig.cache
